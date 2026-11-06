@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>コードで作る映像のスタイル集 — code-film-styles-ja</title>
+    <meta name="description" content="日本の物語と画風、Suno の歌ものを、映像生成モデルを使わず HTML とコードで動かした映像のスタイル集。完成した映像を公開しています。" />
+    <link rel="stylesheet" href="gallery.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <p class="eyebrow">code-film-styles-ja</p>
+      <h1>コードで作る映像の<br />スタイル集</h1>
+      <p class="lede">
+        日本の昔話と画風、歌ものの MV を、映像生成モデルを使わずに HTML とコードで動かしています。
+        絵は画像生成、動き・文字・効果音はすべてコードです。
+      </p>
+      <p class="lede en" lang="en">
+        Japanese stories, Japanese art styles and Suno songs, animated in HTML and code with no video model.
+        Pictures are generated; motion, lettering and sound are code.
+      </p>
+      <nav class="links">
+        <a id="repo-link" href="https://github.com/yamamonlab/code-film-styles-ja">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <ul id="gallery" class="gallery" aria-live="polite"></ul>
+      <p id="status" class="status">読み込み中… / Loading…</p>
+    </main>
+
+    <dialog id="player" aria-label="デモを再生 / Play demo">
+      <form method="dialog" class="player-bar">
+        <span id="player-title"></span>
+        <button type="submit" class="close" aria-label="閉じる / Close">×</button>
+      </form>
+      <video id="player-video" controls playsinline preload="metadata"></video>
+    </dialog>
+
+    <footer class="foot">
+      <p>デモ映像・静止画 CC BY 4.0（MV の曲・歌詞は対象外）— Demo films and stills CC BY 4.0 (MV music and lyrics excluded)</p>
+      <p>絵は AI 生成（OpenAI）、MV の曲は Suno で生成 — Pictures are AI-generated (OpenAI); MV music generated with Suno</p>
+      <p>© 2026 yamamonlab · 素材の出典は各スタイルの CREDITS に記載 / Sources are listed in each style's CREDITS</p>
+    </footer>
+    <script src="gallery.js" type="module"></script>
+  </body>
+</html>

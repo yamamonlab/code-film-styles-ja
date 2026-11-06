@@ -1,0 +1,133 @@
+{
+  "repo": "https://github.com/yamamonlab/code-film-styles-ja",
+  "styles": [
+    {
+      "slug": "sumi-emaki",
+      "kind": "motion-comic",
+      "order": 1,
+      "title": {
+        "ja": "墨絵巻",
+        "en": "Sumi emaki"
+      },
+      "summary": {
+        "ja": "和紙に墨のにじみとかすれで描く絵巻。色は桃色を一つだけ差す。",
+        "en": "An ink-wash handscroll on cream washi: soft bleeds, dry brush, and a single peach-pink accent."
+      },
+      "subject": {
+        "ja": "桃太郎（冒頭）",
+        "en": "Momotaro (opening)"
+      },
+      "duration": 31.4,
+      "tags": [
+        "motion-comic",
+        "ink-and-brush",
+        "washi",
+        "folk-tale"
+      ],
+      "video": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/sumi-emaki-720p.mp4",
+      "video1080": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/sumi-emaki.mp4",
+      "stills": [
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/sumi-emaki-1.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/sumi-emaki-2.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/sumi-emaki-3.jpg"
+      ],
+      "credits": "https://github.com/yamamonlab/code-film-styles-ja/blob/main/credits/sumi-emaki.md"
+    },
+    {
+      "slug": "shonen-manga-mono",
+      "kind": "motion-comic",
+      "order": 2,
+      "title": {
+        "ja": "少年漫画モノクロ",
+        "en": "Shonen manga, black and white"
+      },
+      "summary": {
+        "ja": "週刊誌の白黒の漫画を、コマ割り・集中線・描き文字ごと動かす。線と黒ベタと平らなトーンだけで描く。",
+        "en": "A weekly-magazine black-and-white manga page that moves: panels, speed lines and drawn sound words, inked with lines, solid black and flat tone only."
+      },
+      "subject": {
+        "ja": "桃太郎（冒頭）",
+        "en": "Momotaro (opening)"
+      },
+      "duration": 31.4,
+      "tags": [
+        "motion-comic",
+        "manga",
+        "monochrome",
+        "folk-tale"
+      ],
+      "video": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/shonen-manga-mono-720p.mp4",
+      "video1080": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/shonen-manga-mono.mp4",
+      "stills": [
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/shonen-manga-mono-1.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/shonen-manga-mono-2.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/shonen-manga-mono-3.jpg"
+      ],
+      "credits": "https://github.com/yamamonlab/code-film-styles-ja/blob/main/credits/shonen-manga-mono.md"
+    },
+    {
+      "slug": "kinema-color",
+      "kind": "motion-comic",
+      "order": 3,
+      "title": {
+        "ja": "キネマ彩色",
+        "en": "Kinema colour"
+      },
+      "summary": {
+        "ja": "劇場アニメの一枚絵のような彩色。囲炉裏と朝の光、柔らかい奥行きで見せる。",
+        "en": "Full colour like a key visual from an animated feature: hearth and morning light, soft depth."
+      },
+      "subject": {
+        "ja": "桃太郎（冒頭）",
+        "en": "Momotaro (opening)"
+      },
+      "duration": 31.4,
+      "tags": [
+        "motion-comic",
+        "full-colour",
+        "cinematic",
+        "folk-tale"
+      ],
+      "video": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/kinema-color-720p.mp4",
+      "video1080": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/kinema-color.mp4",
+      "stills": [
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/kinema-color-1.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/kinema-color-2.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/kinema-color-3.jpg"
+      ],
+      "credits": "https://github.com/yamamonlab/code-film-styles-ja/blob/main/credits/kinema-color.md"
+    },
+    {
+      "slug": "manga-burst-karaoke",
+      "kind": "music-video",
+      "order": 4,
+      "title": {
+        "ja": "漫画が割れるカラオケ MV",
+        "en": "Manga-burst karaoke MV"
+      },
+      "summary": {
+        "ja": "白黒の漫画のコマが、サビの一拍で割れて色の一枚絵になる。歌詞は拍に合わせて一語ずつ出す。",
+        "en": "Black-and-white manga panels crack open into a colour picture on the chorus downbeat; the lyrics land word by word on the beat."
+      },
+      "subject": {
+        "ja": "オリジナル曲「ノイズキャンセル」（Suno で作曲、0〜59秒）",
+        "en": "Original song \"Noise Cancel\" (made with Suno, 0–59 s)"
+      },
+      "duration": 59,
+      "tags": [
+        "music-video",
+        "karaoke",
+        "manga",
+        "suno"
+      ],
+      "video": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/manga-burst-karaoke-720p.mp4",
+      "video1080": "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/manga-burst-karaoke.mp4",
+      "stills": [
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/manga-burst-karaoke-1.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/manga-burst-karaoke-2.jpg",
+        "https://github.com/yamamonlab/code-film-styles-ja/releases/download/demos-v1/manga-burst-karaoke-3.jpg"
+      ],
+      "credits": "https://github.com/yamamonlab/code-film-styles-ja/blob/main/credits/manga-burst-karaoke.md"
+    }
+  ]
+}
